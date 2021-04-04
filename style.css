@@ -1,0 +1,79 @@
+/*Chakra Petch заголовок*/
+/*Yusei Magic текст*/
+
+*{
+        margin:0;
+        padding: 0;
+        outline: none;
+}
+
+
+#zagolovolok{
+
+  font-family: 'Russo One', sans-serif;
+  margin: 0;    
+  padding: 0;   
+  border:3px solid #090909;
+  border-top: none;
+  font-size: 40px;
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+
+}
+
+
+
+.main_a{
+
+        font-size: 38px;
+        text-decoration: none;
+        color:#2F2F31;
+        text-transform: uppercase;
+        border-right: 5px solid #006262;
+    border-left: 5px solid #006262;
+    border-top: 3px solid #006262;
+    border-bottom: 3px solid #006262;
+    padding: 4px;
+
+}
+
+
+
+#main_menu{
+        font-family: 'Russo One', sans-serif;
+        text-align: center;
+        margin-top: 20px;
+
+}
+
+
+#about_city{
+
+        margin-right: 8%;
+
+}
+
+#news{
+
+        margin-right: 8%;
+        
+}
+
+
+
+
+.main_a:hover{
+
+     background: #FEFEFE;
+     color: #000000;
+     border-right: 5px solid #404040;
+     border-left: 5px solid #404040;
+     border-top: 3px solid #121213;
+     border-bottom: 3px solid #121213;
+     padding: 4px;
+     transition: all 0.5s;
+
+}
+
+
